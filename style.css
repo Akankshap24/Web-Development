@@ -1,0 +1,15 @@
+
+.container{
+    display: flex;
+    flex-direction: row;
+    column-gap: 25px;
+}
+ 
+ .container {
+   background-color: black;
+}
+
+ .container{
+    justify-content: right;
+ }
+ 
